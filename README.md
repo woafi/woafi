@@ -1,6 +1,7 @@
 - 👋 Hello there, I’m Mohammad Woafi
 - 🌱 I’m currently learning DATA Structure and Algorithm 
 - 📫 How to reach me: woafisun@yahoo.com
+- Pursuing Software Engineering Career Path
 
 
 <!---
