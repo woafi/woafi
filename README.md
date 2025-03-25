@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Mohammad Woafi
-
 ## 🚀 About Me
 I'm a passionate Software Engineering student on an exciting journey to become a full-stack developer. Currently diving deep into Data Structures and Algorithms, I'm committed to expanding my technical skills and building innovative solutions.
 
@@ -9,7 +8,6 @@ I'm a passionate Software Engineering student on an exciting journey to become a
 - Continuous Improvement in Software Engineering Practices
 
 ## 💻 Tech Stack
-
 ### Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
@@ -18,9 +16,10 @@ I'm a passionate Software Engineering student on an exciting journey to become a
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
