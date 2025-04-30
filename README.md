@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mohammad Woafi
 ## 🚀 About Me
-I'm a passionate Software Engineering student on an exciting journey to become a full-stack developer. Currently diving deep into Data Structures and Algorithms, I'm committed to expanding my technical skills and building innovative solutions.
+A passionate Computer Science and Engineering student on an exciting journey to become a Software Engineer. Currently diving deep into Data Structures and Algorithms, I'm committed to expanding my technical skills and actively learning.
 
 ## 🌱 Currently Learning
 - Data Structures and Algorithms
