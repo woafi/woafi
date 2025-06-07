@@ -1,11 +1,12 @@
 # Hi there! 👋 I'm Mohammad Woafi
 ## 🚀 About Me
-A passionate Computer Science and Engineering student on an exciting journey to become a Software Engineer. Currently diving deep into Data Structures and Algorithms, I'm committed to expanding my technical skills and actively learning.
+A passionate Computer Science and Engineering student with a deep interest in building scalable, full-stack web applications and solving complex problems through efficient Data Structures and Algorithms (DSA).
+
+💻 What I Do
+I specialize in Full-Stack Web Development, focusing on modern technologies like Node.js, React, and Next.js. My current work revolves around enhancing backend capabilities while crafting responsive and intuitive front-end experiences. I’ve also explored projects involving API integration, local storage management, and deploying production-ready apps using platforms like Vercel.
 
 ## 🌱 Currently Learning
-- Data Structures and Algorithms
-- Full-Stack Web Development
-- Continuous Improvement in Software Engineering Practices
+I’m actively diving into C# and ASP.NET Core to expand my backend stack, while also strengthening my problem-solving skills through LeetCode topic-wise practice. I’m on a mission to become a well-rounded Full-Stack Developer who writes clean, secure, and efficient code.
 
 ## 💻 Tech Stack
 ### Languages
@@ -14,21 +15,33 @@ A passionate Computer Science and Engineering student on an exciting journey to 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+**Frontend**  
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+**Backend**  
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-## 🌟 Goals
-- Contribute to Open Source Projects
-- Build Scalable Web Applications
-- Continuously Learn and Grow in Software Development
+**CS Fundamentals**  
+📊 DSA  💡 OOP  🗂️ Database Design
+
+**Tools**  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com)
+
+
+## 🎯 What Drives Me?
+- Building Scalable Applications – From concept to deployment.
+- Bridging Frontend & Backend – Creating seamless user experiences.
+- Continuous Growth – Learning new technologies and best practices every day.
 
 ## 📫 Get in Touch
 - **Email**: [woafisun@yahoo.com](mailto:woafisun@yahoo.com)
@@ -38,9 +51,7 @@ A passionate Computer Science and Engineering student on an exciting journey to 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woafi&layout=compact&theme=radical)
 
-## 🏆 Achievements
-- Actively learning and improving coding skills
-- Building a strong foundation in software engineering
-- Exploring multiple programming languages and technologies
+## 📬 Let’s Connect
+If you're into software engineering, full-stack development, or just want to chat about tech, feel free to reach out! I’m always open to learning, collaborating, and sharing ideas.
 
 **💡 Open to Collaboration and Learning Opportunities!**
