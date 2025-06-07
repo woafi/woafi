@@ -45,7 +45,7 @@ I’m actively diving into C# and ASP.NET Core to expand my backend stack, while
 
 ## 📫 Get in Touch
 - **Email**: [woafisun@yahoo.com](mailto:woafisun@yahoo.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin-username)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-woafi-013518207/)
 - **GitHub**: [woafi](https://github.com/woafi)
 
 ## 📊 GitHub Stats
