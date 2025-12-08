@@ -6,7 +6,7 @@ A passionate Computer Science and Engineering student with a deep interest in bu
 I specialize in Full-Stack Web Development, focusing on modern technologies like Node.js, React, and Next.js. My current work revolves around enhancing backend capabilities while crafting responsive and intuitive front-end experiences. I’ve also explored projects involving API integration, local storage management, and deploying production-ready apps using platforms like Vercel.
 
 ## 🌱 Currently Learning
-I’m actively diving into C# and ASP.NET Core to expand my backend stack, while also strengthening my problem-solving skills through LeetCode topic-wise practice. I’m on a mission to become a well-rounded Full-Stack Developer who writes clean, secure, and efficient code.
+I’m actively diving into Python and Django Core to expand my backend stack, while also strengthening my problem-solving skills through LeetCode topic-wise practice. I’m on a mission to become a well-rounded Full-Stack Developer who writes clean, secure, and efficient code.
 
 ## 💻 Tech Stack
 ### Languages
