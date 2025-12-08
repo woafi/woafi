@@ -47,9 +47,6 @@ I’m actively diving into Python and Django Core to expand my backend stack, wh
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-woafi-013518207/)
 - **GitHub**: [woafi](https://github.com/woafi)
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woafi&layout=compact&theme=radical)
-
 ## 📬 Let’s Connect
 If you're into software engineering, full-stack development, or just want to chat about tech, feel free to reach out! I’m always open to learning, collaborating, and sharing ideas.
 
