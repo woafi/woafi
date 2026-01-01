@@ -2,7 +2,7 @@
 ## 🚀 About Me
 A passionate Computer Science and Engineering student with a deep interest in building scalable, full-stack web applications and solving complex problems through efficient Data Structures and Algorithms (DSA).
 
-💻 What I Do | Full-Stack Web Developer
+💻 What I Do 
 
 - Full-Stack Web Developer with hands-on experience building **scalable, production-ready web applications** using modern JavaScript technologies.
 - Strong expertise in **frontend development** with **React**, **Tailwind CSS**, and **Framer Motion**, focused on responsive design, smooth animations, and optimized user experiences.
