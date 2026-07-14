@@ -58,7 +58,7 @@ I’m actively diving into Python and Django Core to expand my backend stack, wh
 
 ## 📫 Get in Touch
 - **Email**: [woafisun@yahoo.com](mailto:woafisun@yahoo.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-woafi-013518207/)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammadwoafi)
 - **GitHub**: [woafi](https://github.com/woafi)
 
 ## 📬 Let’s Connect
