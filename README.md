@@ -1,76 +1,163 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I+am+Mohammad+Woafi;Full-Stack+Web+Developer;Computer+Science+%26+Engineering+Student;DSA+%26+Problem+Solving+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Mohammad%20Woafi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=20" alt="Header" width="100%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=woafi&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/woafi)
-[![Followers](https://img.shields.io/github/followers/woafi?label=Followers&style=flat-square&color=0e75b6)](https://github.com/woafi?tab=followers)
-[![Stars](https://img.shields.io/github/stars/woafi?label=Stars&style=flat-square&color=0e75b6)](https://github.com/woafi?tab=repositories)
+<a href="https://github.com/woafi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+web+apps;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Freelance+developer+%C2%B7+Clean+code+%C2%B7+Secure+APIs;Open+to+Full-Stack+Developer+roles" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <a href="https://mwoafiport.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mohammadwoafi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:woafisun@yahoo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/woafi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=woafi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/woafi?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to work" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-A passionate **Computer Science and Engineering** student with a deep interest in building scalable, full-stack web applications and solving complex problems through efficient **Data Structures and Algorithms (DSA)**.
+I'm a **Computer Science & Engineering student** and **freelance full-stack developer** based in Bangladesh. I build production-ready web applications end to end: from database schema and secure REST APIs to polished, responsive interfaces, and I deploy and maintain what I ship.
 
-- 💻 **Full-Stack Developer** building scalable, production-ready applications with modern JavaScript technologies.
-- ⚛️ Strong frontend expertise in **React**, **Next.js**, **Tailwind CSS**, and **Framer Motion**, focused on responsive design, smooth animations, and optimized user experiences.
-- 🔌 Proficient in **REST API integration** with **Axios**, ensuring efficient client–server communication and data handling.
-- 🛠️ Experienced in backend development with **Node.js**, **Express.js**, **Django**, and **.NET**, designing secure and maintainable RESTful APIs.
-- 🗄️ Skilled in database design and management with **PostgreSQL** and **MongoDB**, leveraging **Prisma ORM** for schema modeling, migrations, and type-safe queries.
-- 🔐 Familiar with **authentication**, environment configuration, and API security best practices in real-world applications.
-- 🚀 Proven ability to **deploy and maintain production applications**, focusing on performance, scalability, and clean code principles.
-- 🎯 Actively preparing for **software engineering internships and full-time roles**, with a strong emphasis on problem-solving and system design fundamentals.
+```ts
+const woafi = {
+  role: "Full-Stack Web Developer",
+  focus: ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "Prisma"],
+  strengths: ["Clean architecture", "API design", "Auth & security", "Problem solving (DSA)"],
+  currentlyLearning: ["Python", "Django", "LeetCode (topic-wise)"],
+  lookingFor: "Full-Stack Developer roles & internships",
+};
+```
 
-## 🧠 Currently Learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Diving deeper into **Python** and **Django Core** to expand my backend stack while sharpening problem-solving skills through **LeetCode** topic-wise practice — on a mission to become a well-rounded Full-Stack Developer who writes clean, secure, and efficient code.
+### 🎯 What I Do
+- Build **full-stack apps** with Next.js, React and Node.js
+- Design **relational schemas** with PostgreSQL + Prisma
+- Ship **secure auth** and well-structured REST APIs
+- Craft **responsive UIs** with Tailwind CSS and Framer Motion
+- **Deploy** to Vercel / Render and keep apps running
 
-## 💻 Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### Languages
+### 🌱 Currently
+- 🐍 Going deeper into **Python & Django Core**
+- 🧩 Practicing **LeetCode** topic by topic
+- 🏗️ Strengthening **system design** fundamentals
+- 💼 Working on **freelance client projects**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Frontend
+---
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+## 🛠️ Tech Stack
 
-### Backend & Databases
+<div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io)
+**Languages**
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=ts,js,java,py,cs&perline=10" alt="Languages" />
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
-[![Render](https://img.shields.io/badge/Render-0466C8?style=flat&logo=render&logoColor=white)](https://render.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com)
+**Frontend**
 
-### CS Fundamentals
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=10" alt="Frontend" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 
-📊 **DSA** · 💡 **OOP** · 🗂️ **Database Design**
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,postgres,mongodb,prisma&perline=10" alt="Backend" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,vercel,firebase&perline=10" alt="Tools" />
+<img src="https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
+**CS Fundamentals**
+
+`Data Structures & Algorithms` · `OOP` · `Database Design` · `REST API Design` · `Authentication & Security`
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [MedCore-HMS](https://github.com/woafi/Medcore-HMS)
+Production-ready **hospital management system** with a modern full-stack architecture and static generation for fast page loads.
+
+`Next.js 16` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Tech-gadget](https://github.com/woafi/Tech-gadget)
+Full-stack **e-commerce app** with authentication, cart, wishlist, checkout and order history.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [My-Chat](https://github.com/woafi/My-Chat)
+**Real-time messaging** app with secure authentication, file sharing and a responsive design.
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [SecureNest](https://github.com/woafi/SecureNest)
+**Password manager** using AES-256-GCM encryption, with a polished dark-mode UI.
+
+`TypeScript` `Firebase` `AES-256-GCM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 [DSA](https://github.com/woafi/DSA)
+Clean implementations of essential **data structures and algorithms**.
+
+`Java`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 [Web-Music-Player](https://github.com/woafi/Web-Music-Player)
+Spotify-inspired **web player** with playlists, seek bar and volume controls.
+
+`JavaScript` `CSS`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[**→ See all projects on my portfolio**](https://mwoafiport.vercel.app)
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -81,22 +168,9 @@ A passionate **Computer Science and Engineering** student with a deep interest i
 
 <img src="https://streak-stats.demolab.com?user=woafi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=woafi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=woafi&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=woafi&theme=tokyo-night&hide_border=true" alt="Activity graph" width="100%" />
 
 </div>
-
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-| :--- | :--- | :--- |
-| [**Medcore-HMS**](https://github.com/woafi/Medcore-HMS) | `Next.js 16` `TypeScript` | Production-ready hospital management system with SSG and modern full-stack architecture. |
-| [**Tech-gadget**](https://github.com/woafi/Tech-gadget) | `Next.js` `TypeScript` `Prisma` `PostgreSQL` | Full-stack e-commerce app with authentication, cart, wishlist, checkout, and order history. |
-| [**My-Chat**](https://github.com/woafi/My-Chat) | `MongoDB` `Express` `React` `Node.js` | Real-time messaging application with secure authentication, file sharing, and responsive design. |
-| [**SecureNest**](https://github.com/woafi/SecureNest) | `TypeScript` `Firebase` `AES-256-GCM` | Password manager with military-grade encryption and a polished dark-mode UI. |
-| [**DSA**](https://github.com/woafi/DSA) | `Java` | Implementations of essential data structures and algorithms. |
-| [**Web-Music-Player**](https://github.com/woafi/Web-Music-Player) | `JavaScript` `CSS` | Spotify-inspired web player with playlists, seek bar, and volume controls. |
 
 ## 🐍 Contribution Snake
 
@@ -110,21 +184,20 @@ A passionate **Computer Science and Engineering** student with a deep interest i
 
 </div>
 
-## 🎯 What Drives Me
+---
 
-- 🏗️ **Building Scalable Applications** — From concept to deployment.
-- 🔗 **Bridging Frontend & Backend** — Creating seamless user experiences.
-- 🌱 **Continuous Growth** — Learning new technologies and best practices every day.
-
-## 📫 Get in Touch
-
-- **Email**: [![Email](https://img.shields.io/badge/woafisun%40yahoo.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:woafisun@yahoo.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadwoafi)
-- **Portfolio**: [![Portfolio](https://img.shields.io/badge/mwoafiport.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://mwoafiport.vercel.app)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/woafi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/woafi)
+## 📫 Let's Connect
 
 <div align="center">
 
-### 💡 Open to Collaboration and Learning Opportunities!
+I'm actively looking for **Full-Stack Web Developer** opportunities and open to collaboration.
+
+<a href="mailto:woafisun@yahoo.com"><img src="https://img.shields.io/badge/woafisun%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohammadwoafi"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mwoafiport.vercel.app"><img src="https://img.shields.io/badge/mwoafiport.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
