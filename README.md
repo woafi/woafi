@@ -118,10 +118,10 @@ A passionate **Computer Science and Engineering** student with a deep interest i
 
 ## 📫 Get in Touch
 
-- **Email**: [woafisun@yahoo.com](mailto:woafisun@yahoo.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammadwoafi)
-- **Portfolio**: [mwoafiport.vercel.app](https://mwoafiport.vercel.app)
-- **GitHub**: [woafi](https://github.com/woafi)
+- **Email**: [![Email](https://img.shields.io/badge/woafisun%40yahoo.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:woafisun@yahoo.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadwoafi)
+- **Portfolio**: [![Portfolio](https://img.shields.io/badge/mwoafiport.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://mwoafiport.vercel.app)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/woafi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/woafi)
 
 <div align="center">
 
